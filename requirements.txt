@@ -1,6 +1,0 @@
-openai
-urllib3
-tqdm
-argparse
-matplotlib
-seaborn
