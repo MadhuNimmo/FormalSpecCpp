@@ -1,0 +1,2522 @@
+[
+  {
+    "file_name": "task_id_472.dfy",
+    "input_tokens": 422,
+    "output_tokens": 540,
+    "total_cost": 0.02042,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 13.52165675163269,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 15,
+        "non_empty_lines": 15,
+        "character_count": 458,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 46,
+        "non_empty_lines": 38,
+        "character_count": 1287,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_261.dfy",
+    "input_tokens": 446,
+    "output_tokens": 527,
+    "total_cost": 0.020270000000000003,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 17.312061071395874,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 17,
+        "non_empty_lines": 17,
+        "character_count": 518,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 37,
+        "non_empty_lines": 30,
+        "character_count": 932,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_101.dfy",
+    "input_tokens": 324,
+    "output_tokens": 377,
+    "total_cost": 0.014549999999999999,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 11.88663387298584,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 155,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 18,
+        "non_empty_lines": 13,
+        "character_count": 363,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_470.dfy",
+    "input_tokens": 471,
+    "output_tokens": 522,
+    "total_cost": 0.02037,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 10.4251229763031,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 18,
+        "non_empty_lines": 18,
+        "character_count": 599,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 33,
+        "non_empty_lines": 26,
+        "character_count": 1118,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_458.dfy",
+    "input_tokens": 322,
+    "output_tokens": 361,
+    "total_cost": 0.01405,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 20.498212099075317,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 7,
+        "non_empty_lines": 7,
+        "character_count": 179,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 18,
+        "non_empty_lines": 13,
+        "character_count": 378,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_262.dfy",
+    "input_tokens": 360,
+    "output_tokens": 486,
+    "total_cost": 0.018179999999999998,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 13.057179927825928,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 9,
+        "non_empty_lines": 9,
+        "character_count": 305,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 26,
+        "non_empty_lines": 20,
+        "character_count": 834,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_276.dfy",
+    "input_tokens": 346,
+    "output_tokens": 433,
+    "total_cost": 0.01645,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 19.11029815673828,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 7,
+        "non_empty_lines": 7,
+        "character_count": 247,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 20,
+        "non_empty_lines": 15,
+        "character_count": 473,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_3.dfy",
+    "input_tokens": 403,
+    "output_tokens": 512,
+    "total_cost": 0.01939,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 22.69822597503662,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 18,
+        "non_empty_lines": 18,
+        "character_count": 406,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 40,
+        "non_empty_lines": 33,
+        "character_count": 941,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_266.dfy",
+    "input_tokens": 319,
+    "output_tokens": 448,
+    "total_cost": 0.01663,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 13.472354888916016,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 147,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 18,
+        "non_empty_lines": 13,
+        "character_count": 442,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_460.dfy",
+    "input_tokens": 416,
+    "output_tokens": 576,
+    "total_cost": 0.021439999999999997,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 18.315510988235474,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 14,
+        "non_empty_lines": 14,
+        "character_count": 458,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 37,
+        "non_empty_lines": 30,
+        "character_count": 1197,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_312.dfy",
+    "input_tokens": 372,
+    "output_tokens": 414,
+    "total_cost": 0.016139999999999998,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 10.948498964309692,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 279,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 20,
+        "non_empty_lines": 15,
+        "character_count": 517,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_139.dfy",
+    "input_tokens": 346,
+    "output_tokens": 435,
+    "total_cost": 0.01651,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 13.801691055297852,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 227,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 22,
+        "non_empty_lines": 16,
+        "character_count": 585,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_105.dfy",
+    "input_tokens": 441,
+    "output_tokens": 514,
+    "total_cost": 0.01983,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 12.275755882263184,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 23,
+        "non_empty_lines": 22,
+        "character_count": 527,
+        "function_count": 2
+      },
+      "cpp": {
+        "total_lines": 35,
+        "non_empty_lines": 28,
+        "character_count": 930,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_267.dfy",
+    "input_tokens": 421,
+    "output_tokens": 438,
+    "total_cost": 0.017349999999999997,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 10.181995153427124,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 15,
+        "non_empty_lines": 15,
+        "character_count": 373,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 28,
+        "non_empty_lines": 21,
+        "character_count": 601,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_273.dfy",
+    "input_tokens": 424,
+    "output_tokens": 544,
+    "total_cost": 0.020560000000000002,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 20.051308155059814,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 16,
+        "non_empty_lines": 16,
+        "character_count": 464,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 32,
+        "non_empty_lines": 25,
+        "character_count": 908,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_106.dfy",
+    "input_tokens": 458,
+    "output_tokens": 623,
+    "total_cost": 0.02327,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 20.376056671142578,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 16,
+        "non_empty_lines": 16,
+        "character_count": 523,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 40,
+        "non_empty_lines": 33,
+        "character_count": 1298,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_304.dfy",
+    "input_tokens": 354,
+    "output_tokens": 478,
+    "total_cost": 0.01788,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 15.886041164398193,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 7,
+        "non_empty_lines": 7,
+        "character_count": 237,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 21,
+        "non_empty_lines": 16,
+        "character_count": 527,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_476.dfy",
+    "input_tokens": 661,
+    "output_tokens": 543,
+    "total_cost": 0.0229,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 17.643149852752686,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 44,
+        "non_empty_lines": 41,
+        "character_count": 1194,
+        "function_count": 3
+      },
+      "cpp": {
+        "total_lines": 35,
+        "non_empty_lines": 27,
+        "character_count": 1097,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_264.dfy",
+    "input_tokens": 321,
+    "output_tokens": 124,
+    "total_cost": 0.00693,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 4.656013011932373,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 160,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 19,
+        "non_empty_lines": 14,
+        "character_count": 501,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_728.dfy",
+    "input_tokens": 411,
+    "output_tokens": 537,
+    "total_cost": 0.02022,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 16.845251083374023,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 14,
+        "non_empty_lines": 14,
+        "character_count": 423,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 35,
+        "non_empty_lines": 28,
+        "character_count": 1108,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_798.dfy",
+    "input_tokens": 418,
+    "output_tokens": 531,
+    "total_cost": 0.02011,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 14.445860147476196,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 20,
+        "non_empty_lines": 19,
+        "character_count": 446,
+        "function_count": 2
+      },
+      "cpp": {
+        "total_lines": 33,
+        "non_empty_lines": 26,
+        "character_count": 812,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_80.dfy",
+    "input_tokens": 343,
+    "output_tokens": 487,
+    "total_cost": 0.01804,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 11.969588041305542,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 152,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 18,
+        "non_empty_lines": 13,
+        "character_count": 506,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_94.dfy",
+    "input_tokens": 483,
+    "output_tokens": 527,
+    "total_cost": 0.020640000000000002,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 16.77063512802124,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 19,
+        "non_empty_lines": 19,
+        "character_count": 672,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 42,
+        "non_empty_lines": 35,
+        "character_count": 1263,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_95.dfy",
+    "input_tokens": 437,
+    "output_tokens": 633,
+    "total_cost": 0.02336,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 17.43462610244751,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 17,
+        "non_empty_lines": 17,
+        "character_count": 453,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 46,
+        "non_empty_lines": 39,
+        "character_count": 1590,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_809.dfy",
+    "input_tokens": 449,
+    "output_tokens": 608,
+    "total_cost": 0.02273,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 33.751303911209106,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 18,
+        "non_empty_lines": 18,
+        "character_count": 541,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 54,
+        "non_empty_lines": 47,
+        "character_count": 1564,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_799.dfy",
+    "input_tokens": 341,
+    "output_tokens": 501,
+    "total_cost": 0.01844,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 15.181993007659912,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 185,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 19,
+        "non_empty_lines": 14,
+        "character_count": 411,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_770.dfy",
+    "input_tokens": 457,
+    "output_tokens": 565,
+    "total_cost": 0.021519999999999997,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 16.97736620903015,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 15,
+        "non_empty_lines": 15,
+        "character_count": 444,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 28,
+        "non_empty_lines": 21,
+        "character_count": 664,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_572.dfy",
+    "input_tokens": 460,
+    "output_tokens": 542,
+    "total_cost": 0.02086,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 17.08949613571167,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 18,
+        "non_empty_lines": 18,
+        "character_count": 606,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 42,
+        "non_empty_lines": 35,
+        "character_count": 1440,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_566.dfy",
+    "input_tokens": 1634,
+    "output_tokens": 616,
+    "total_cost": 0.034820000000000004,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 12.4462411403656,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 165,
+        "non_empty_lines": 146,
+        "character_count": 4175,
+        "function_count": 9
+      },
+      "cpp": {
+        "total_lines": 56,
+        "non_empty_lines": 46,
+        "character_count": 1344,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_599.dfy",
+    "input_tokens": 397,
+    "output_tokens": 450,
+    "total_cost": 0.01747,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 11.874922275543213,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 14,
+        "non_empty_lines": 14,
+        "character_count": 348,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 26,
+        "non_empty_lines": 20,
+        "character_count": 572,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_610.dfy",
+    "input_tokens": 527,
+    "output_tokens": 597,
+    "total_cost": 0.02318,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 19.681257963180542,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 25,
+        "non_empty_lines": 25,
+        "character_count": 750,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 55,
+        "non_empty_lines": 45,
+        "character_count": 1330,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_82.dfy",
+    "input_tokens": 351,
+    "output_tokens": 300,
+    "total_cost": 0.012509999999999999,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 11.488802194595337,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 223,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 19,
+        "non_empty_lines": 14,
+        "character_count": 521,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_605.dfy",
+    "input_tokens": 402,
+    "output_tokens": 504,
+    "total_cost": 0.01914,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 14.374287128448486,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 18,
+        "non_empty_lines": 18,
+        "character_count": 405,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 35,
+        "non_empty_lines": 28,
+        "character_count": 915,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_598.dfy",
+    "input_tokens": 439,
+    "output_tokens": 434,
+    "total_cost": 0.01741,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 17.29024076461792,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 10,
+        "non_empty_lines": 9,
+        "character_count": 364,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 23,
+        "non_empty_lines": 17,
+        "character_count": 582,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_567.dfy",
+    "input_tokens": 463,
+    "output_tokens": 663,
+    "total_cost": 0.02452,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 21.244511127471924,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 19,
+        "non_empty_lines": 19,
+        "character_count": 598,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 62,
+        "non_empty_lines": 53,
+        "character_count": 1882,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_573.dfy",
+    "input_tokens": 739,
+    "output_tokens": 502,
+    "total_cost": 0.022449999999999998,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 15.223186016082764,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 55,
+        "non_empty_lines": 52,
+        "character_count": 1558,
+        "function_count": 2
+      },
+      "cpp": {
+        "total_lines": 37,
+        "non_empty_lines": 32,
+        "character_count": 874,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_577.dfy",
+    "input_tokens": 380,
+    "output_tokens": 570,
+    "total_cost": 0.0209,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 18.57581901550293,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 15,
+        "non_empty_lines": 14,
+        "character_count": 352,
+        "function_count": 2
+      },
+      "cpp": {
+        "total_lines": 29,
+        "non_empty_lines": 23,
+        "character_count": 891,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_588.dfy",
+    "input_tokens": 661,
+    "output_tokens": 533,
+    "total_cost": 0.022600000000000002,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 16.23355007171631,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 45,
+        "non_empty_lines": 41,
+        "character_count": 1206,
+        "function_count": 3
+      },
+      "cpp": {
+        "total_lines": 35,
+        "non_empty_lines": 29,
+        "character_count": 1005,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_86.dfy",
+    "input_tokens": 336,
+    "output_tokens": 480,
+    "total_cost": 0.017759999999999998,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 12.24065089225769,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 161,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 19,
+        "non_empty_lines": 14,
+        "character_count": 521,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_760.dfy",
+    "input_tokens": 456,
+    "output_tokens": 499,
+    "total_cost": 0.01953,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 20.308855056762695,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 22,
+        "non_empty_lines": 20,
+        "character_count": 632,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 37,
+        "non_empty_lines": 29,
+        "character_count": 1123,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_762.dfy",
+    "input_tokens": 350,
+    "output_tokens": 456,
+    "total_cost": 0.01718,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 13.02930998802185,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 240,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 17,
+        "non_empty_lines": 12,
+        "character_count": 533,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_574.dfy",
+    "input_tokens": 363,
+    "output_tokens": 506,
+    "total_cost": 0.01881,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 13.634268045425415,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 270,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 20,
+        "non_empty_lines": 15,
+        "character_count": 489,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_399.dfy",
+    "input_tokens": 431,
+    "output_tokens": 589,
+    "total_cost": 0.02198,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 20.401598930358887,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 16,
+        "non_empty_lines": 16,
+        "character_count": 460,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 36,
+        "non_empty_lines": 28,
+        "character_count": 1017,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_170.dfy",
+    "input_tokens": 460,
+    "output_tokens": 582,
+    "total_cost": 0.02206,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 18.589659929275513,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 22,
+        "non_empty_lines": 21,
+        "character_count": 656,
+        "function_count": 2
+      },
+      "cpp": {
+        "total_lines": 35,
+        "non_empty_lines": 28,
+        "character_count": 1213,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_616.dfy",
+    "input_tokens": 462,
+    "output_tokens": 497,
+    "total_cost": 0.01953,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 14.627379894256592,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 19,
+        "non_empty_lines": 19,
+        "character_count": 644,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 35,
+        "non_empty_lines": 28,
+        "character_count": 970,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_85.dfy",
+    "input_tokens": 346,
+    "output_tokens": 493,
+    "total_cost": 0.01825,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 22.604032039642334,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 216,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 19,
+        "non_empty_lines": 14,
+        "character_count": 482,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_603.dfy",
+    "input_tokens": 518,
+    "output_tokens": 656,
+    "total_cost": 0.02486,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 19.34799599647522,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 20,
+        "non_empty_lines": 20,
+        "character_count": 671,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 46,
+        "non_empty_lines": 39,
+        "character_count": 1316,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_171.dfy",
+    "input_tokens": 315,
+    "output_tokens": 388,
+    "total_cost": 0.01479,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 10.026020050048828,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 147,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 17,
+        "non_empty_lines": 12,
+        "character_count": 406,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_401.dfy",
+    "input_tokens": 631,
+    "output_tokens": 651,
+    "total_cost": 0.02584,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 19.000758171081543,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 26,
+        "non_empty_lines": 26,
+        "character_count": 1060,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 57,
+        "non_empty_lines": 47,
+        "character_count": 1704,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_578.dfy",
+    "input_tokens": 500,
+    "output_tokens": 564,
+    "total_cost": 0.02192,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 15.33704400062561,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 14,
+        "non_empty_lines": 14,
+        "character_count": 518,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 36,
+        "non_empty_lines": 29,
+        "character_count": 998,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_587.dfy",
+    "input_tokens": 391,
+    "output_tokens": 507,
+    "total_cost": 0.019119999999999998,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 13.942009925842285,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 14,
+        "non_empty_lines": 14,
+        "character_count": 367,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 34,
+        "non_empty_lines": 27,
+        "character_count": 927,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_430.dfy",
+    "input_tokens": 347,
+    "output_tokens": 476,
+    "total_cost": 0.01775,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 11.917455911636353,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 186,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 17,
+        "non_empty_lines": 12,
+        "character_count": 359,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_424.dfy",
+    "input_tokens": 448,
+    "output_tokens": 633,
+    "total_cost": 0.02347,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 15.766398191452026,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 15,
+        "non_empty_lines": 15,
+        "character_count": 498,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 41,
+        "non_empty_lines": 34,
+        "character_count": 1362,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_632.dfy",
+    "input_tokens": 1202,
+    "output_tokens": 603,
+    "total_cost": 0.030109999999999998,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 24.545317888259888,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 75,
+        "non_empty_lines": 70,
+        "character_count": 3162,
+        "function_count": 3
+      },
+      "cpp": {
+        "total_lines": 47,
+        "non_empty_lines": 42,
+        "character_count": 1283,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_62.dfy",
+    "input_tokens": 418,
+    "output_tokens": 643,
+    "total_cost": 0.023469999999999998,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 21.457923889160156,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 17,
+        "non_empty_lines": 17,
+        "character_count": 427,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 50,
+        "non_empty_lines": 43,
+        "character_count": 1454,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_626.dfy",
+    "input_tokens": 318,
+    "output_tokens": 466,
+    "total_cost": 0.01716,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 11.509954929351807,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 166,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 18,
+        "non_empty_lines": 13,
+        "character_count": 475,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_89.dfy",
+    "input_tokens": 315,
+    "output_tokens": 475,
+    "total_cost": 0.0174,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 16.623188972473145,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 108,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 18,
+        "non_empty_lines": 13,
+        "character_count": 377,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_627.dfy",
+    "input_tokens": 504,
+    "output_tokens": 693,
+    "total_cost": 0.025829999999999995,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 18.256527185440063,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 28,
+        "non_empty_lines": 28,
+        "character_count": 703,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 62,
+        "non_empty_lines": 55,
+        "character_count": 1647,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_431.dfy",
+    "input_tokens": 498,
+    "output_tokens": 639,
+    "total_cost": 0.024149999999999998,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 19.000091791152954,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 21,
+        "non_empty_lines": 21,
+        "character_count": 761,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 66,
+        "non_empty_lines": 57,
+        "character_count": 1923,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_586.dfy",
+    "input_tokens": 381,
+    "output_tokens": 554,
+    "total_cost": 0.02043,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 22.58678913116455,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 9,
+        "non_empty_lines": 9,
+        "character_count": 300,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 24,
+        "non_empty_lines": 19,
+        "character_count": 674,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_784.dfy",
+    "input_tokens": 847,
+    "output_tokens": 750,
+    "total_cost": 0.030969999999999998,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 19.28863215446472,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 68,
+        "non_empty_lines": 61,
+        "character_count": 1906,
+        "function_count": 2
+      },
+      "cpp": {
+        "total_lines": 94,
+        "non_empty_lines": 80,
+        "character_count": 2394,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_751.dfy",
+    "input_tokens": 537,
+    "output_tokens": 617,
+    "total_cost": 0.02388,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 18.25260329246521,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 16,
+        "non_empty_lines": 16,
+        "character_count": 696,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 50,
+        "non_empty_lines": 43,
+        "character_count": 1365,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_433.dfy",
+    "input_tokens": 439,
+    "output_tokens": 588,
+    "total_cost": 0.02203,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 16.449470043182373,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 19,
+        "non_empty_lines": 19,
+        "character_count": 562,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 57,
+        "non_empty_lines": 50,
+        "character_count": 1217,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_396.dfy",
+    "input_tokens": 338,
+    "output_tokens": 366,
+    "total_cost": 0.014360000000000001,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 11.333149909973145,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 166,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 22,
+        "non_empty_lines": 16,
+        "character_count": 663,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_625.dfy",
+    "input_tokens": 384,
+    "output_tokens": 467,
+    "total_cost": 0.01785,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 13.014706134796143,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 11,
+        "non_empty_lines": 11,
+        "character_count": 311,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 27,
+        "non_empty_lines": 22,
+        "character_count": 678,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_803.dfy",
+    "input_tokens": 410,
+    "output_tokens": 519,
+    "total_cost": 0.01967,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 25.08389711380005,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 14,
+        "non_empty_lines": 14,
+        "character_count": 407,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 29,
+        "non_empty_lines": 24,
+        "character_count": 879,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_142.dfy",
+    "input_tokens": 401,
+    "output_tokens": 444,
+    "total_cost": 0.01733,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 12.02495002746582,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 8,
+        "non_empty_lines": 8,
+        "character_count": 343,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 25,
+        "non_empty_lines": 19,
+        "character_count": 785,
+        "function_count": 1
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_618.dfy",
+    "input_tokens": 435,
+    "output_tokens": 527,
+    "total_cost": 0.02016,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 15.426385879516602,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 15,
+        "non_empty_lines": 15,
+        "character_count": 484,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 37,
+        "non_empty_lines": 30,
+        "character_count": 1020,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_432.dfy",
+    "input_tokens": 330,
+    "output_tokens": 406,
+    "total_cost": 0.01548,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 11.239858150482178,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 150,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 18,
+        "non_empty_lines": 13,
+        "character_count": 373,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_591.dfy",
+    "input_tokens": 387,
+    "output_tokens": 463,
+    "total_cost": 0.017759999999999998,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 13.36532211303711,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 10,
+        "non_empty_lines": 10,
+        "character_count": 317,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 27,
+        "non_empty_lines": 22,
+        "character_count": 752,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_234.dfy",
+    "input_tokens": 315,
+    "output_tokens": 441,
+    "total_cost": 0.01638,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 9.362098932266235,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 151,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 17,
+        "non_empty_lines": 12,
+        "character_count": 405,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_793.dfy",
+    "input_tokens": 494,
+    "output_tokens": 580,
+    "total_cost": 0.02234,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 14.235236883163452,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 18,
+        "non_empty_lines": 18,
+        "character_count": 710,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 33,
+        "non_empty_lines": 27,
+        "character_count": 1050,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_581.dfy",
+    "input_tokens": 347,
+    "output_tokens": 486,
+    "total_cost": 0.01805,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 21.309410095214844,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 7,
+        "non_empty_lines": 7,
+        "character_count": 254,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 18,
+        "non_empty_lines": 13,
+        "character_count": 453,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_807.dfy",
+    "input_tokens": 488,
+    "output_tokens": 600,
+    "total_cost": 0.022879999999999998,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 20.085186004638672,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 25,
+        "non_empty_lines": 24,
+        "character_count": 731,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 56,
+        "non_empty_lines": 48,
+        "character_count": 1750,
+        "function_count": 1
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_59.dfy",
+    "input_tokens": 332,
+    "output_tokens": 466,
+    "total_cost": 0.017300000000000003,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 10.8267240524292,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 175,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 18,
+        "non_empty_lines": 13,
+        "character_count": 522,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_594.dfy",
+    "input_tokens": 721,
+    "output_tokens": 745,
+    "total_cost": 0.02956,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 20.581602096557617,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 44,
+        "non_empty_lines": 41,
+        "character_count": 1455,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 66,
+        "non_empty_lines": 58,
+        "character_count": 1904,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_755.dfy",
+    "input_tokens": 802,
+    "output_tokens": 724,
+    "total_cost": 0.029740000000000003,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 19.307257175445557,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 51,
+        "non_empty_lines": 44,
+        "character_count": 1572,
+        "function_count": 3
+      },
+      "cpp": {
+        "total_lines": 61,
+        "non_empty_lines": 53,
+        "character_count": 1854,
+        "function_count": 2
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_743.dfy",
+    "input_tokens": 442,
+    "output_tokens": 621,
+    "total_cost": 0.02305,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 18.667812824249268,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 15,
+        "non_empty_lines": 15,
+        "character_count": 469,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 44,
+        "non_empty_lines": 36,
+        "character_count": 1426,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_233.dfy",
+    "input_tokens": 351,
+    "output_tokens": 479,
+    "total_cost": 0.01788,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 12.158913135528564,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 223,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 20,
+        "non_empty_lines": 15,
+        "character_count": 458,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_555.dfy",
+    "input_tokens": 463,
+    "output_tokens": 541,
+    "total_cost": 0.020860000000000004,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 14.886090993881226,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 16,
+        "non_empty_lines": 16,
+        "character_count": 503,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 33,
+        "non_empty_lines": 25,
+        "character_count": 832,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_435.dfy",
+    "input_tokens": 323,
+    "output_tokens": 352,
+    "total_cost": 0.013789999999999998,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 8.598628282546997,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 7,
+        "non_empty_lines": 7,
+        "character_count": 130,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 18,
+        "non_empty_lines": 13,
+        "character_count": 363,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_637.dfy",
+    "input_tokens": 330,
+    "output_tokens": 372,
+    "total_cost": 0.01446,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 9.96877908706665,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 220,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 19,
+        "non_empty_lines": 14,
+        "character_count": 434,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_623.dfy",
+    "input_tokens": 449,
+    "output_tokens": 614,
+    "total_cost": 0.02291,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 19.319471836090088,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 21,
+        "non_empty_lines": 20,
+        "character_count": 575,
+        "function_count": 2
+      },
+      "cpp": {
+        "total_lines": 47,
+        "non_empty_lines": 37,
+        "character_count": 1416,
+        "function_count": 1
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_145.dfy",
+    "input_tokens": 452,
+    "output_tokens": 514,
+    "total_cost": 0.01994,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 16.247159957885742,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 20,
+        "non_empty_lines": 19,
+        "character_count": 569,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 43,
+        "non_empty_lines": 35,
+        "character_count": 1164,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_622.dfy",
+    "input_tokens": 468,
+    "output_tokens": 519,
+    "total_cost": 0.02025,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 14.997416257858276,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 14,
+        "non_empty_lines": 14,
+        "character_count": 544,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 32,
+        "non_empty_lines": 26,
+        "character_count": 914,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_282.dfy",
+    "input_tokens": 442,
+    "output_tokens": 504,
+    "total_cost": 0.019540000000000002,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 15.08182692527771,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 18,
+        "non_empty_lines": 18,
+        "character_count": 592,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 32,
+        "non_empty_lines": 25,
+        "character_count": 943,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_14.dfy",
+    "input_tokens": 350,
+    "output_tokens": 452,
+    "total_cost": 0.01706,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 11.823316097259521,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 8,
+        "non_empty_lines": 8,
+        "character_count": 256,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 19,
+        "non_empty_lines": 14,
+        "character_count": 464,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_644.dfy",
+    "input_tokens": 640,
+    "output_tokens": 735,
+    "total_cost": 0.02845,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 18.01247000694275,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 35,
+        "non_empty_lines": 33,
+        "character_count": 959,
+        "function_count": 2
+      },
+      "cpp": {
+        "total_lines": 52,
+        "non_empty_lines": 44,
+        "character_count": 1502,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_452.dfy",
+    "input_tokens": 370,
+    "output_tokens": 347,
+    "total_cost": 0.01411,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 11.04803991317749,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 10,
+        "non_empty_lines": 10,
+        "character_count": 365,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 23,
+        "non_empty_lines": 18,
+        "character_count": 639,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_240.dfy",
+    "input_tokens": 395,
+    "output_tokens": 508,
+    "total_cost": 0.01919,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 13.704616785049438,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 8,
+        "non_empty_lines": 8,
+        "character_count": 373,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 32,
+        "non_empty_lines": 25,
+        "character_count": 966,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_268.dfy",
+    "input_tokens": 333,
+    "output_tokens": 443,
+    "total_cost": 0.01662,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 12.737345933914185,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 142,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 19,
+        "non_empty_lines": 14,
+        "character_count": 488,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_135.dfy",
+    "input_tokens": 331,
+    "output_tokens": 127,
+    "total_cost": 0.0071200000000000005,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 3.8429298400878906,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 152,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 18,
+        "non_empty_lines": 13,
+        "character_count": 477,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_17.dfy",
+    "input_tokens": 315,
+    "output_tokens": 323,
+    "total_cost": 0.01284,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 10.155603170394897,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 145,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 19,
+        "non_empty_lines": 14,
+        "character_count": 490,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_445.dfy",
+    "input_tokens": 423,
+    "output_tokens": 518,
+    "total_cost": 0.01977,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 16.69351291656494,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 16,
+        "non_empty_lines": 16,
+        "character_count": 463,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 33,
+        "non_empty_lines": 26,
+        "character_count": 848,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_733.dfy",
+    "input_tokens": 511,
+    "output_tokens": 527,
+    "total_cost": 0.02092,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 16.023258209228516,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 25,
+        "non_empty_lines": 25,
+        "character_count": 857,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 50,
+        "non_empty_lines": 43,
+        "character_count": 1431,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_290.dfy",
+    "input_tokens": 411,
+    "output_tokens": 575,
+    "total_cost": 0.021359999999999997,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 19.0032160282135,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 17,
+        "non_empty_lines": 16,
+        "character_count": 470,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 36,
+        "non_empty_lines": 29,
+        "character_count": 1250,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_284.dfy",
+    "input_tokens": 411,
+    "output_tokens": 565,
+    "total_cost": 0.021059999999999995,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 14.093844890594482,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 16,
+        "non_empty_lines": 16,
+        "character_count": 473,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 43,
+        "non_empty_lines": 36,
+        "character_count": 1315,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_441.dfy",
+    "input_tokens": 318,
+    "output_tokens": 409,
+    "total_cost": 0.015449999999999998,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 14.93660020828247,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 144,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 18,
+        "non_empty_lines": 13,
+        "character_count": 447,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_455.dfy",
+    "input_tokens": 355,
+    "output_tokens": 462,
+    "total_cost": 0.017410000000000002,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 12.744862794876099,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 195,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 20,
+        "non_empty_lines": 15,
+        "character_count": 697,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_126.dfy",
+    "input_tokens": 471,
+    "output_tokens": 501,
+    "total_cost": 0.01974,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 18.546100854873657,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 18,
+        "non_empty_lines": 18,
+        "character_count": 533,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 30,
+        "non_empty_lines": 23,
+        "character_count": 587,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_641.dfy",
+    "input_tokens": 334,
+    "output_tokens": 406,
+    "total_cost": 0.015519999999999999,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 15.470923900604248,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 156,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 19,
+        "non_empty_lines": 14,
+        "character_count": 509,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_133.dfy",
+    "input_tokens": 460,
+    "output_tokens": 508,
+    "total_cost": 0.01984,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 18.791921138763428,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 22,
+        "non_empty_lines": 21,
+        "character_count": 570,
+        "function_count": 2
+      },
+      "cpp": {
+        "total_lines": 41,
+        "non_empty_lines": 35,
+        "character_count": 1100,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_457.dfy",
+    "input_tokens": 421,
+    "output_tokens": 566,
+    "total_cost": 0.02119,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 14.134245157241821,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 16,
+        "non_empty_lines": 16,
+        "character_count": 488,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 37,
+        "non_empty_lines": 30,
+        "character_count": 1132,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_292.dfy",
+    "input_tokens": 316,
+    "output_tokens": 363,
+    "total_cost": 0.014049999999999998,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 11.144808053970337,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 126,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 17,
+        "non_empty_lines": 12,
+        "character_count": 347,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  },
+  {
+    "file_name": "task_id_279.dfy",
+    "input_tokens": 333,
+    "output_tokens": 434,
+    "total_cost": 0.01635,
+    "success": true,
+    "attempts": 1,
+    "conversion_time": 14.844187021255493,
+    "code_metrics": {
+      "dafny": {
+        "total_lines": 6,
+        "non_empty_lines": 6,
+        "character_count": 161,
+        "function_count": 1
+      },
+      "cpp": {
+        "total_lines": 19,
+        "non_empty_lines": 14,
+        "character_count": 522,
+        "function_count": 0
+      }
+    },
+    "errors": []
+  }
+]
