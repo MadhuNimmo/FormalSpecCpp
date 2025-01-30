@@ -41,9 +41,8 @@ FormalSpecCpp/
 │── LICENSE
 ```
 
-### 📥 Download the Dataset
-- [Zenodo Link](https://zenodo.org/records/###)
-- [Alternative: Hugging Face](https://huggingface.co/datasets/###)
+### 📥 Download the Dataset (Alternative)
+- [Hugging Face](https://huggingface.co/datasets/###)
 
 ### 📌 Use Cases
 - **LLM Benchmarking**: Evaluate AI-based program verification.
@@ -107,10 +106,6 @@ FormalSpecCpp-Generator/
 
 ---
 
-## Increasing Visibility
-
-### 📌 Citation Section
-```md
 ## Citation
 If you use FormalSpecCpp in your work, please cite our paper:
 ```
@@ -122,18 +117,7 @@ If you use FormalSpecCpp in your work, please cite our paper:
 }
 ```
 
-## 🔹 Contributing
-We welcome contributions! To contribute:
-1. Fork this repository.
-2. Create a new branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -m 'Add new feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Open a Pull Request.
-
----
-
 ## License
 - **Dataset (C++ Programs + Test Cases):** Licensed under **[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)**.
 - **Code (Scripts for Benchmark Generation & Testing):** Licensed under **MIT License**.
-
 By using this dataset, you agree to **cite our work** and follow the license terms.
