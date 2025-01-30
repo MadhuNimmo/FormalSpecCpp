@@ -1,7 +1,7 @@
 # FormalSpecCpp: A Dataset for C++ Formal Specifications 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.#######.svg)](https://doi.org/10.5281/zenodo.#######)
-[![GitHub stars](https://img.shields.io/github/stars/yourrepo.svg?style=social)](https://github.com/yourrepo/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/FormalSpecCPP.svg?style=social)](https://github.com/FormalSpecCPP/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](LICENSE)
 
 **FormalSpecCpp** is a benchmark designed to evaluate **formal specification inference tools** for C++. It provides **105 C++ programs** generated with **formal preconditions and postconditions**, along with **associated test cases**. This dataset is the **first comprehensive benchmark for C++ specification inference**.
