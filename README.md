@@ -1,89 +1,139 @@
-# FormalSpecCPP
+# FormalSpecCpp: A Dataset for C++ Formal Specifications 
 
-This repository contains the script to convert Dafny code to C++ code using OpenAI's GPT-4turbo model, compiles the generated code, and handles any compilation errors by iteratively refining the code using the AI model. It also contains the script to generate the associated testcases and run the tests on the programs.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.#######.svg)](https://doi.org/10.5281/zenodo.#######)
+[![GitHub stars](https://img.shields.io/github/stars/yourrepo.svg?style=social)](https://github.com/yourrepo/stargazers)
+[![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](LICENSE)
 
-## Requirements
+**FormalSpecCpp** is a benchmark designed to evaluate **formal specification inference tools** for C++. It provides **105 C++ programs** generated with **formal preconditions and postconditions**, along with **associated test cases**. This dataset is the **first comprehensive benchmark for C++ specification inference**.
 
-- Python 3.9+
-- A valid OpenAI API key
-- GCC (g++) installed on your machine for C++ compilation
+**📢 This benchmark was published in MSR 2025!** 🎉
 
-## Installation
+## 🚀 Why Use This Benchmark?
+- Standardized dataset for evaluating **C++ formal specifications**.
+- Facilitates **automated verification and testing** of C++ programs.
 
-1. **Clone or Download the Repository:**
+## 📜 Table of Contents
+- [Overview](#overview)
+- [Installation](#installation)
+- [Dataset Details](#dataset-details)
+- [Usage](#usage)
+- [Benchmarking](#benchmarking)
+- [Contributing](#contributing)
+- [Citation](#citation)
+- [License](#license)
 
-   Download the repository or clone it using Git:
+---
 
-   ```bash
-   git clone <repository_url>
-   ```
+## Dataset Details
 
-2. **Set Up the OpenAI API Key:**
+### 📊 Dataset Statistics
+- **105 C++ programs** with **formal preconditions & postconditions**.
+- **Generated from Dafny programs** using GPT-4-turbo.
+- **Automatically translated and manually verified test cases** for validation.
 
-   Export your OpenAI API key as an environment variable:
+### 🛠️ Dataset Structure
+```
+FormalSpecCpp/
+│── FormalSpecCPP/                    # Translated C++ programs
+│── FormalSpecCPP-Tests/              # Associated test cases
+│── FormalSpecCpp-Generator/          # Scripts for translation & testing
+│── README.md
+│── LICENSE
+```
 
-   ```bash
-   export OPENAI_API_KEY='your_openai_api_key'
-   ```
+### 📥 Download the Dataset
+- [Zenodo Link](https://zenodo.org/records/###)
+- [Alternative: Hugging Face](https://huggingface.co/datasets/###)
 
-   Replace `'your_openai_api_key'` with your actual API key.
+### 📌 Use Cases
+- **LLM Benchmarking**: Evaluate AI-based program verification.
+- **Testing Specification Inference**: Compare formal verification tools.
+- **C++ Education**: Teaching contract-based programming.
 
-3. **Installation Steps:**
+---
 
-  Create a Virtual Environment:
+## 🚀 Quick Start
 
-  ```bash
-  python -m venv venv
-  source venv/bin/activate  # For Linux/Mac
-  venv\Scripts\activate     # For Windows
-  ```
+### Installation
+#### 🔹 **For Dataset Users**
+```bash
+pip install -r requirements.txt
+```
+#### 🔹 **For Contributors**
+```bash
+git clone <repository_url>
+cd FormalSpecCpp
+python -m venv venv
+source venv/bin/activate   # Linux/Mac
+venv\Scripts\activate      # Windows
+pip install -r requirements.txt
+```
 
-  Install the Required Libraries:
+### Running the Pipeline
+```bash
+make generate_benchmark  # Generates C++ programs
+make run_tests           # Runs all test cases
+```
 
-  ```bash
-  pip install -r requirements.txt
-  ```
-## Usage
+---
 
-1. **Prepare Your Dafny Files:**
+## Repository Structure
 
-   The Dafny files used in this script are sourced from the [Mondego/dafny-synthesis](https://github.com/Mondego/dafny-synthesis) repository. Place your Dafny files (`.dfy` files) in a directory of your choice.
+Your benchmark can be **more reusable** if structured like a standard ML dataset repository. **Consider splitting** it into **two repositories**:
 
-2. **Run the Script:**
+| Repo | Purpose |
+|------|---------|
+| **FormalSpecCpp-Dataset** | Contains the **C++ programs + test cases** only. |
+| **FormalSpecCpp-Generator** | Contains the **scripts and LLM pipelines** used to generate the dataset. |
 
-   Execute the script using Python, the directory containing your Dafny files, the output directory and the analysis directory:
+### 📌 New Structure
+```
+FormalSpecCpp-Dataset/
+│── programs/
+│── tests/
+│── metadata.json       # Describes dataset contents
+│── README.md
+│── LICENSE (CC BY 4.0)
 
-   ```bash
-   python3 dfy2cpp.py /path/to/dafny/files/directory/ --output /path/to/program/output/directory/ --analysis /path/to/analysis/directory/
-   ```
-   Ideally, you should be using the file MBPP-DFY-153/src/ in the dafny-synthesis directory.
+FormalSpecCpp-Generator/
+│── scripts/
+│── requirements.txt
+│── dfy2cpp.py
+│── getTests.py
+│── run_tests.py
+│── README.md
+│── LICENSE (MIT)
+```
 
-   ```bash
-   python3 getTests.py /path/to/dafny/file/with/the/tests --output /path/to/test/output/directory/ --input /path/to/input/directory/
-   ```
-   Ideally, you should be using the file `MBPP-san-DFY-228/mbpp-san-dfy-228-all-task-test.json` located in the `dafny-synthesis` directory.
+---
 
-   ```bash
-   python3 run_tests.py /path/to/test/output/directory/
-    ```
-   - Compile the generated code using `g++` for C++.
-   - If the compilation fails, the script will automatically ask the AI to fix the errors and recompile.
+## Increasing Visibility
 
-3. **View Output:**
+### 📌 Citation Section
+```md
+## Citation
+If you use FormalSpecCpp in your work, please cite our paper:
+```
+@inproceedings{chakraborty2024formalspeccpp,
+  author    = {Madhurima Chakraborty and Peter Pirkelbauer and Qing Yi},
+  title     = {FormalSpecCpp: A Dataset of C++ Formal Specifications Created Using LLMs},
+  booktitle = {MSR 2025},
+  year      = {2025}
+}
+```
 
-   The script will provide detailed output, showing the status of each file being processed. It will indicate whether the code was successfully compiled or if there were any errors.
+## 🔹 Contributing
+We welcome contributions! To contribute:
+1. Fork this repository.
+2. Create a new branch: `git checkout -b feature-name`
+3. Commit your changes: `git commit -m 'Add new feature'`
+4. Push to the branch: `git push origin feature-name`
+5. Open a Pull Request.
 
-## Error Handling
-
-- If the script encounters errors during the compilation of the generated code, it sends the errors back to the AI model to generate a corrected version of the code.
-- If the AI fails to correct the code after multiple attempts, the script will print the error messages.
-
-## Limitations
-
-- The script requires a stable internet connection for API calls to OpenAI.
-- It relies on the quality of the AI model's responses for generating and correcting code.
-- The script assumes the Dafny files contain valid code with appropriate assertions.
+---
 
 ## License
+- **Dataset (C++ Programs + Test Cases):** Licensed under **[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)**.
+- **Code (Scripts for Benchmark Generation & Testing):** Licensed under **MIT License**.
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+By using this dataset, you agree to **cite our work** and follow the license terms.
