@@ -64,8 +64,11 @@ def main():
     parser.add_argument('--include_dir', type=str, help='Path to the include directory for header files')
     args = parser.parse_args()
 
-    test_dir = args.test_dir
-    include_dir = args.include_dir
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+
+    test_dir = os.path.abspath(os.path.join(script_dir, "../../", args.test_dir)) if not os.path.isabs(args.test_dir) else args.test_dir
+    include_dir = os.path.abspath(os.path.join(script_dir, "../../", args.include_dir)) if not os.path.isabs(args.include_dir) else args.include_dir
+
 
     # Check if the directory exists
     if not os.path.isdir(test_dir):

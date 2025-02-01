@@ -18,10 +18,10 @@
 - **Automatically translated and manually verified test cases** for validation.
 
 ### 🛠️ Dataset Structure
-FormalSpecCPP-Dataset/            # Translated C++ programs & Associated test cases
-  │── FormalSpecCPP/              # Translated C++ programs with specifications
-  │── FormalSpecCPP-Tests/        # Associated test cases
-  │── FormalSpecCPP-NoSpec/       # Translated C++ programs without specifications
+FormalSpecCPP-Dataset/        # Main dataset containing translated C++ programs and test cases
+├── FormalSpecCPP/            # C++ programs with formal specifications
+├── FormalSpecCPP-Tests/      # Corresponding test cases for the translated programs
+└── FormalSpecCPP-NoSpec/     # C++ programs without formal specifications
 
 ### 📥 Download the Dataset (Alternative)
 - [Hugging Face](https://huggingface.co/datasets/###)
@@ -31,12 +31,28 @@ FormalSpecCPP-Dataset/            # Translated C++ programs & Associated test ca
 - **Testing Specification Inference**: Compare formal verification tools.
 - **C++ Education**: Teaching contract-based programming.
 
+### 🧪 Running Tests
+To run the test cases for the dataset, use the run_tests.py script located in the FormalSpecCpp-Scripts directory.
+You need to specify the appropriate test and include directories:
+
+To run tests on code with formal specifications, use:
+```bash
+python FormalSpecCpp-Scripts/run_tests.py --test_dir FormalSpecCpp-Dataset/FormalSpecCPP-Tests --include_dir FormalSpecCpp-Dataset/FormalSpecCPP
+```
+
+To run tests on code without formal specifications, use:
+```bash
+python FormalSpecCpp-Scripts/run_tests.py --test_dir FormalSpecCpp-Dataset/FormalSpecCPP-Tests --include_dir FormalSpecCpp-Dataset/FormalSpecCPP-NoSpec
+```
+
 ## Repository Structure
 
 | Directory | Purpose |
 |------|---------|
 | **FormalSpecCpp-Dataset** | Contains the **C++ programs + test cases** only. |
-| **FormalSpecCpp-Generator** | Contains the **scripts and LLM pipelines** used to generate the dataset. |
+| **FormalSpecCpp-Scripts** | Contains the **scripts and LLM pipelines** used to generate the dataset. |
+
+
 
 
 ## Citation
