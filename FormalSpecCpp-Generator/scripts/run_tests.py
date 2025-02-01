@@ -3,7 +3,7 @@ import os
 import argparse
 
 # Function to compile and run each .cpp file in the specified directory
-def compile_and_run_cpp(test_dir):
+def compile_and_run_cpp(test_dir, include_dir):
     successful_runs = 0
     failed_runs = 0
     error_counts = {
@@ -24,7 +24,7 @@ def compile_and_run_cpp(test_dir):
             
             # Compile the file
             print(f"Compiling {file}...")
-            compile_command = ['g++', '-std=c++11', '-w', file, '-o', base_name]
+            compile_command = ['g++', f'-I{include_dir}', '-std=c++11', '-w', file, '-o', base_name]
             try:
                 subprocess.run(compile_command, check=True)
                 print(f"Running {base_name}...")
@@ -60,10 +60,12 @@ def compile_and_run_cpp(test_dir):
 def main():
     # Parse command line arguments
     parser = argparse.ArgumentParser(description='Compile and run all .cpp test files in a directory.')
-    parser.add_argument('test_dir', type=str, help='Path to the directory containing the .cpp test files')
+    parser.add_argument('--test_dir', type=str, help='Path to the directory containing the .cpp test files')
+    parser.add_argument('--include_dir', type=str, help='Path to the include directory for header files')
     args = parser.parse_args()
 
     test_dir = args.test_dir
+    include_dir = args.include_dir
 
     # Check if the directory exists
     if not os.path.isdir(test_dir):
@@ -71,7 +73,7 @@ def main():
         return
 
     # Compile and run tests in the directory
-    compile_and_run_cpp(test_dir)
+    compile_and_run_cpp(test_dir, include_dir)
 
 if __name__ == "__main__":
     main()

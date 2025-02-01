@@ -1,4 +1,4 @@
-#include "../FormalSpecCPP/task_id_266.cpp"
+#include "task_id_266.cpp"
 
 #include <cassert>  // Required header for assertions
 

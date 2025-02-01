@@ -1,4 +1,4 @@
-#include "../FormalSpecCPP/task_id_82.cpp"
+#include "task_id_82.cpp"
 
 #include <cassert>  // Required header for assertions
 #include <cmath>    // Required for floating-point comparison

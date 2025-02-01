@@ -1,3 +1,6 @@
 .DS_Store
 .history/
 venv/
+
+# Ignore executables without extensions
+FormalSpecCpp-Dataset/FormalSpecCPP-Tests/task_id_*_test

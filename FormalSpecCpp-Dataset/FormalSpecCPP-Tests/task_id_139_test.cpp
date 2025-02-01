@@ -1,4 +1,4 @@
-#include "../FormalSpecCPP/task_id_139.cpp"
+#include "task_id_139.cpp"
 
 #include <cassert>  // Required header for assertions
 #include <cmath>    // Required header for M_PI

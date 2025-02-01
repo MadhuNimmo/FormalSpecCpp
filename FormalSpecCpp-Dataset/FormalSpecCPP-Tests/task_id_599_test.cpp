@@ -1,4 +1,4 @@
-#include "../FormalSpecCPP/task_id_599.cpp"
+#include "task_id_599.cpp"
 
 #include <cassert>  // Required header for assertions
 #include <tuple>    // Required header for using std::tuple

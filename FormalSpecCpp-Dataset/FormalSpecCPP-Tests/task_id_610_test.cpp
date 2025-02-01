@@ -1,4 +1,4 @@
-#include "../FormalSpecCPP/task_id_610.cpp"
+#include "task_id_610.cpp"
 
 #include <cassert>
 #include <vector>

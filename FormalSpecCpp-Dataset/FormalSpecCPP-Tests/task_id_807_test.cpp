@@ -1,4 +1,4 @@
-#include "../FormalSpecCPP/task_id_807.cpp"
+#include "task_id_807.cpp"
 
 #include <cassert>  // Required header for assertions
 #include <vector>   // Required header for using std::vector

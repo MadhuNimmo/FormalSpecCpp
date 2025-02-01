@@ -119,8 +119,7 @@ def write_cpp_test_file(output_dir, file_name, cpp_test_code, input_dir):
     # Write the C++ test code to the file with the #include statement for the existing C++ file
     if cpp_test_code is not None:
         with open(test_file_path, 'w') as test_file:
-            relative_path = os.path.relpath(os.path.join(input_dir, file_name), os.path.dirname(test_file_path))
-            include_statement = f'#include "{relative_path}"\n\n'
+            include_statement = f'#include "{file_name}"\n\n'
             test_file.write(include_statement)
             test_file.write(cpp_test_code)
 

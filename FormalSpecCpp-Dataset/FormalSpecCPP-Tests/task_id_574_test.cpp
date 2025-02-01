@@ -1,4 +1,4 @@
-#include "../FormalSpecCPP/task_id_574.cpp"
+#include "task_id_574.cpp"
 
 #include <cassert>
 #include <cmath>
