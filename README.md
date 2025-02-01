@@ -18,10 +18,14 @@
 - **Automatically translated and manually verified test cases** for validation.
 
 ### 🛠️ Dataset Structure
-FormalSpecCPP-Dataset/        # Main dataset containing translated C++ programs and test cases
-├── FormalSpecCPP/            # C++ programs with formal specifications
-├── FormalSpecCPP-Tests/      # Corresponding test cases for the translated programs
-└── FormalSpecCPP-NoSpec/     # C++ programs without formal specifications
+
+| Directory | Purpose |
+|------|---------|
+| **FormalSpecCpp-Dataset** | Main dataset containing translated C++ programs and test cases. |
+| ├── **FormalSpecCpp/** | C++ programs with formal specifications. |
+| ├── **FormalSpecCpp-Tests/** | Corresponding test cases for the translated programs. |
+| └── **FormalSpecCpp-NoSpec/** | C++ programs without formal specifications. |
+| **FormalSpecCpp-Scripts** | Contains the scripts and LLM pipelines used to generate the dataset. |
 
 ### 📥 Download the Dataset (Alternative)
 - [Hugging Face](https://huggingface.co/datasets/###)
@@ -45,16 +49,6 @@ To run tests on code without formal specifications, use:
 python FormalSpecCpp-Scripts/run_tests.py --test_dir FormalSpecCpp-Dataset/FormalSpecCPP-Tests --include_dir FormalSpecCpp-Dataset/FormalSpecCPP-NoSpec
 ```
 
-## Repository Structure
-
-| Directory | Purpose |
-|------|---------|
-| **FormalSpecCpp-Dataset** | Contains the **C++ programs + test cases** only. |
-| **FormalSpecCpp-Scripts** | Contains the **scripts and LLM pipelines** used to generate the dataset. |
-
-
-
-
 ## Citation
 If you use FormalSpecCpp in your work, please cite our paper:
 ```
@@ -67,5 +61,5 @@ If you use FormalSpecCpp in your work, please cite our paper:
 ```
 
 ## License
-- **Dataset (C++ Programs + Test Cases):** Licensed under **[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)**.
+- **Dataset (C++ Programs + Test Cases) and Code:** Licensed under **[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)**.
 By using this dataset, you agree to **cite our work** and follow the license terms.
