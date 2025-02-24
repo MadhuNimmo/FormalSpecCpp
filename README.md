@@ -1,7 +1,6 @@
 # FormalSpecCpp: A Dataset for C++ Formal Specifications 
 
 [![DOI](https://img.shields.io/badge/DOI-10.48550/arXiv.2502.15217-blue)](https://doi.org/10.48550/arXiv.2502.15217)
-[![GitHub stars](https://img.shields.io/github/stars/FormalSpecCPP.svg?style=social)](https://github.com/FormalSpecCPP/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](LICENSE)
 
 **FormalSpecCpp** is a benchmark designed to evaluate **formal specification inference tools** for C++. It provides **105 C++ programs** with **formal preconditions and postconditions**, along with **associated test cases**. This dataset is the **first comprehensive benchmark for C++ specification inference**.
