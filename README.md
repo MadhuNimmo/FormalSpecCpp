@@ -1,6 +1,6 @@
 # FormalSpecCpp: A Dataset for C++ Formal Specifications 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.#######.svg)](https://doi.org/10.5281/zenodo.#######)
+[![DOI](https://doi.org/10.48550/arXiv.2502.15217)
 [![GitHub stars](https://img.shields.io/github/stars/FormalSpecCPP.svg?style=social)](https://github.com/FormalSpecCPP/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](LICENSE)
 
@@ -50,13 +50,16 @@ python FormalSpecCpp-Scripts/run_tests.py --test_dir FormalSpecCpp-Dataset/Forma
 ```
 
 ## Citation
-If you use FormalSpecCpp in your work, please cite our paper:
+If you use FormalSpecCpp in your work, kindly cite our paper:
 ```
-@inproceedings{chakraborty2024formalspeccpp,
-  author    = {Madhurima Chakraborty and Peter Pirkelbauer and Qing Yi},
-  title     = {FormalSpecCpp: A Dataset of C++ Formal Specifications Created Using LLMs},
-  booktitle = {MSR 2025},
-  year      = {2025}
+@misc{chakraborty2025formalspeccppdatasetcformal,
+      title={FormalSpecCpp: A Dataset of C++ Formal Specifications created using LLMs}, 
+      author={Madhurima Chakraborty and Peter Pirkelbauer and Qing Yi},
+      year={2025},
+      eprint={2502.15217},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2502.15217}, 
 }
 ```
 
