@@ -1,6 +1,6 @@
 # FormalSpecCpp: A Dataset for C++ Formal Specifications 
 
-[![DOI](https://doi.org/10.48550/arXiv.2502.15217)
+[![DOI](https://img.shields.io/badge/DOI-10.48550/arXiv.2502.15217-blue)](https://doi.org/10.48550/arXiv.2502.15217)
 [![GitHub stars](https://img.shields.io/github/stars/FormalSpecCPP.svg?style=social)](https://github.com/FormalSpecCPP/stargazers)
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](LICENSE)
 
