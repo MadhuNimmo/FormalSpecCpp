@@ -7,11 +7,7 @@ std::vector<int> ElementWiseSubtraction(const std::vector<int>& a, const std::ve
 
     // Loop to perform element-wise subtraction
     for (size_t i = 0; i < a.size(); ++i) {
-
         result[i] = a[i] - b[i];
-    }
-
-    for (size_t i = 0; i < result.size(); ++i) {
     }
 
     return result;

@@ -1,6 +1,5 @@
 #include <vector>
 
-
 std::pair<std::vector<int>, std::vector<int>> SplitArray(const std::vector<int>& arr, size_t L) {
 
     // Splitting the array

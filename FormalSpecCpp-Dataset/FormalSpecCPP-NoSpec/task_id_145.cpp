@@ -1,6 +1,5 @@
 #include <vector>
 
-
 int MaxDifference(const std::vector<int>& a) {
 
     int minVal = a[0];

@@ -1,4 +1,3 @@
-// Function to calculate the perimeter of a square
 unsigned int SquarePerimeter(unsigned int side) {
 
     // Calculate the perimeter

@@ -8,8 +8,6 @@ int DifferenceMinMax(const std::vector<int>& a) {
     int maxVal = a[0];
 
     for (size_t i = 1; i < a.size(); ++i) {
-        for (size_t k = 0; k < i; ++k) {
-        }
         // These invariants are implicitly maintained by the logic below
         // and thus do not need explicit checks in C++
 

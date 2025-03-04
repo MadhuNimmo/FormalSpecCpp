@@ -1,6 +1,5 @@
 #include <vector>
 
-
 int SmallestMissingNumber(const std::vector<int>& s) {
     for (size_t i = 0; i < s.size(); ++i) {
         for (size_t j = i + 1; j < s.size(); ++j) {

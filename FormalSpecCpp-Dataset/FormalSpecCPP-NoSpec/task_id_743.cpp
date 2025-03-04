@@ -23,8 +23,5 @@ std::vector<int> RotateRight(const std::vector<int>& l, unsigned int n) {
         }
     }
 
-    for (size_t i = 0; i < length; ++i) {
-    }
-
     return rotated;
 }

@@ -14,8 +14,5 @@ std::vector<int> MultiplyElements(const std::vector<int>& a, const std::vector<i
         result.push_back(a[i] * b[i]);
     }
 
-    for (size_t i = 0; i < result.size(); ++i) {
-    }
-
     return result;
 }

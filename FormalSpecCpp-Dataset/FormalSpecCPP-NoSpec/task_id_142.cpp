@@ -1,6 +1,5 @@
 #include <vector>
 
-
 int CountIdenticalPositions(const std::vector<int>& a, const std::vector<int>& b, const std::vector<int>& c) {
 
     size_t count = 0; // Using size_t as count will always be non-negative

@@ -19,15 +19,7 @@ std::vector<int> PowerOfListElements(const std::vector<int>& l, unsigned int n) 
     result.reserve(l.size()); // Reserve space to avoid reallocations
 
     for (size_t i = 0; i < l.size(); ++i) {
-
-        // Check the power calculation for each element added so far
-        for (size_t k = 0; k < i; ++k) {
-        }
-
         result.push_back(Power(l[i], n));
-    }
-
-    for (size_t i = 0; i < l.size(); ++i) {
     }
 
     return result;

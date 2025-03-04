@@ -13,10 +13,5 @@ std::vector<int> ReplaceLastElement(const std::vector<int>& first, const std::ve
     // Append the entire 'second' vector
     result.insert(result.end(), second.begin(), second.end());
 
-    for (size_t i = 0; i < first_size - 1; ++i) {
-    }
-    for (size_t i = first_size - 1; i < result.size(); ++i) {
-    }
-
     return result;
 }

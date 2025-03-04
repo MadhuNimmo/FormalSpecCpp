@@ -1,6 +1,5 @@
 #include <vector>
 
-
 int ElementAtIndexAfterRotation(const std::vector<int>& l, unsigned int n, size_t index) {
 
     // Calculation

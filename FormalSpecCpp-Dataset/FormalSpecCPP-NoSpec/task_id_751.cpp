@@ -17,9 +17,5 @@ bool IsMinHeap(const std::vector<int>& a) {
         }
     }
 
-    if (result) {
-    } else {
-    }
-
     return result;
 }

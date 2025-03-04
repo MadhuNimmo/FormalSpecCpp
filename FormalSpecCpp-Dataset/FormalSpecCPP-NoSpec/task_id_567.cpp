@@ -1,6 +1,5 @@
 #include <vector>
 
-
 bool IsSorted(const std::vector<int>& a) {
 
     bool sorted = true;

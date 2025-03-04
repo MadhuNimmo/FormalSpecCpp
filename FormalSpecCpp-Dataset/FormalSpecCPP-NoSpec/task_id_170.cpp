@@ -1,6 +1,5 @@
 #include <vector>
 
-
 // Function to recursively sum elements from 'start' to 'end' in an array
 int sumTo(const std::vector<int>& a, int start, int end) {
 

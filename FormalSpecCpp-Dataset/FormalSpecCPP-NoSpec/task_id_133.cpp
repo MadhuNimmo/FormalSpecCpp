@@ -1,6 +1,5 @@
 #include <vector>
 
-
 // Function to sum negative numbers up to index n in the array
 int sumNegativesTo(const std::vector<int>& a, size_t n) {
 

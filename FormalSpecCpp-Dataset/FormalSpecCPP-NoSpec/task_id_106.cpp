@@ -7,18 +7,8 @@ std::vector<int> AppendArrayToSeq(const std::vector<int>& s, const std::vector<i
 
     // Loop to append elements from array a to sequence r
     for (size_t i = 0; i < a.size(); ++i) {
-        for (size_t j = 0; j < s.size(); ++j) {
-        }
-        for (size_t j = 0; j < i; ++j) {
-        }
-
         // Append current element from a to r
         r.push_back(a[i]);
-    }
-
-    for (size_t i = 0; i < s.size(); ++i) {
-    }
-    for (size_t i = 0; i < a.size(); ++i) {
     }
 
     return r;

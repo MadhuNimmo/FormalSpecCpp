@@ -2,19 +2,6 @@
 #include <vector>
 #include <set>
 
-
-int SetProduct(const std::set<int>& s) {
-    if (s.empty()) {
-        return 1;
-    } else {
-        int product = 1;
-        for (int x : s) {
-            product *= x;
-        }
-        return product;
-    }
-}
-
 int UniqueProduct(const std::vector<int>& arr) {
     int p = 1;
     std::set<int> seen;

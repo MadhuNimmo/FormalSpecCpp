@@ -1,6 +1,5 @@
 #include <vector>
 
-
 bool AllElementsEqual(const std::vector<int>& a, int n) {
 
     bool result = true;

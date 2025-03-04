@@ -1,6 +1,5 @@
 #include <vector>
 
-
 // Function to compute the sum of elements up to the nth index
 int sumTo(const std::vector<int>& a, size_t n) {
 

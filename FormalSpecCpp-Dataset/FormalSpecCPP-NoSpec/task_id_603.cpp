@@ -43,13 +43,5 @@ std::vector<int> LucidNumbers(int n) {
     std::vector<int> result(lucidSet.begin(), lucidSet.end());
     std::sort(result.begin(), result.end());
 
-    // All numbers should be <= n
-    for (int num : result) {
-    }
-
-    // Numbers should be strictly increasing
-    for (size_t i = 0; i < result.size() - 1; ++i) {
-    }
-
     return result;
 }

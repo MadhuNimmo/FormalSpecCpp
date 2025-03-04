@@ -11,13 +11,7 @@ std::vector<int> MaxLengthList(const std::vector<std::vector<int>>& lists) {
         if (lists[i].size() > maxList.size()) {
             maxList = lists[i];
         }
-
-        for (size_t j = 0; j <= i; ++j) {
-        }
     }
-
-    for (const auto& l : lists) {
-    }
-
+    
     return maxList;
 }

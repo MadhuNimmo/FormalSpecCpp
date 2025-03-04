@@ -1,6 +1,5 @@
 #include <vector>
 
-
 bool ContainsConsecutiveNumbers(const std::vector<int>& a) {
 
     bool result = true;

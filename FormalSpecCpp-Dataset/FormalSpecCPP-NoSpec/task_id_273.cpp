@@ -13,8 +13,5 @@ std::vector<int> SubtractSequences(const std::vector<int>& a, const std::vector<
         result.push_back(a[i] - b[i]);
     }
 
-    for (size_t i = 0; i < result.size(); ++i) {
-    }
-
     return result;
 }

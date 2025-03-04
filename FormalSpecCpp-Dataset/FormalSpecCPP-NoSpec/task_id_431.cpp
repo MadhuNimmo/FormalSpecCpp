@@ -1,6 +1,5 @@
 #include <vector>
 
-
 bool HasCommonElement(const std::vector<int>& a, const std::vector<int>& b) {
 
     bool result = false;

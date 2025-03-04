@@ -1,6 +1,5 @@
 #include <vector>
 
-
 double FindMedian(const std::vector<int>& a, const std::vector<int>& b) {
 
     // Merge the two sorted arrays
